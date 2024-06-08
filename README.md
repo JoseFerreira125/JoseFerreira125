@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is José Ferreira a proficient backend software developer, with over 3 years of experience, adept in bringing forth expertise in design, development, testing and maintenance of software systems. A creative thinker with the ability to quickly learn and navigate any programming language or database.
+My name is José Ferreira a proficient backend software developer, with over 4 years of experience, adept in bringing forth expertise in design, development, testing and maintenance of software systems. A creative thinker with the ability to quickly learn and navigate any programming language or database.
 
 🔭 Currently Working On: <br>
   - **Fanduel** as a [backend developer](https://github.com/ferreiraj2-fd).
