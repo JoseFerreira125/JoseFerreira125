@@ -5,7 +5,7 @@ I'm José Ferreira, a backend software developer with over 4 years of experience
 ---
 
 ### 💼 Experience
-- **Fanduel**: 3 years as [Backend Developer](https://github.com/ferreiraj2-fd)
+- **Blip.pt / Fanduel**: 3 years as [Backend Developer](https://github.com/ferreiraj2-fd)
 - **BySide**: 1.5 years as Junior Backend Software Developer
 
 ---
