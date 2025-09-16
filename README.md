@@ -25,7 +25,7 @@ I'm José Ferreira, a backend software developer with over 4 years of experience
 Here are a few projects I've built to explore new technologies and solve interesting problems:
 
 * **TFT Analysis Project**: A computer vision and AI project to analyze Teamfight Tactics games. The goal is to detect in-game elements and evaluate player positions using models trained on custom datasets.
-* **ftgo-reactive**: A food delivery service built with **Lagom** and **Scala**, focusing on reactive principles and event-driven architecture.
+* **Food to Go - Reactive**: A food delivery service built with **Lagom** and **Scala**, focusing on reactive principles and event-driven architecture.
 * **URL Shortener**: A high-performance URL shortening service written in **Go**, showcasing my ability to build efficient and concurrent backend systems.
 
 ---
