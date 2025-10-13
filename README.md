@@ -24,9 +24,10 @@ I'm José Ferreira, a backend software developer with over 4 years of experience
 ### ⚡ Personal Projects
 Here are a few projects I've built to explore new technologies and solve interesting problems:
 
-* **TFT Analysis Project**: A computer vision and AI project to analyze Teamfight Tactics games. The goal is to detect in-game elements and evaluate player positions using models trained on custom datasets.
+* (In-progress) **TFT Analysis Project**: A computer vision and AI project to analyze Teamfight Tactics games. The goal is to detect in-game elements and evaluate player positions using models trained on custom datasets.
 * **Food to Go - Reactive**: A food delivery service, originally designed by [Chris Richardson](https://github.com/microservices-patterns/ftgo-application), which I migrated and rebuilt with **Lagom** and **Scala** to focus on reactive principles and event-driven architecture.
 * **URL Shortener**: A high-performance URL shortening service written in **Go**, showcasing my ability to build efficient and concurrent backend systems.
+* (In-progress) **Immutable Ledger Service**: A minimalist, high-performance distributed ledger written in **Go**, implementing foundational blockchain concepts like SHA-256 hashing and a simple **Proof-of-Work** consensus mechanism to showcase **concurrency** and data immutability.
 
 ---
 
