@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm José Ferreira, a backend software developer with over 4 years of experience specializing in the design, development, and maintenance of robust software systems. I'm a creative problem-solver with a strong ability to quickly adapt to new technologies.
+I'm José Ferreira, a backend software developer with over 4 years of experience specializing in the design, development, and maintenance of **robust, scalable, and resilient software systems**. I'm a creative problem-solver with a strong ability to quickly adapt to new technologies.
 
 ---
 
@@ -18,16 +18,17 @@ I'm José Ferreira, a backend software developer with over 4 years of experience
 - **Software Reliability**: Ensuring systems are robust and perform well under pressure.
 - **Computer Vision**: Using AI for image and video analysis, particularly for object and keypoint detection.
 - **Concurrency**: Building high-performance, concurrent systems in languages like Go.
+- **Decentralized Systems & Cryptography**: Exploring distributed ledger technology (DLT), peer-to-peer (P2P) networking, and foundational cryptographic primitives (hashing, signing) for data integrity and secure communication.
 
 ---
 
 ### ⚡ Personal Projects
 Here are a few projects I've built to explore new technologies and solve interesting problems:
 
-* (In-progress) **TFT Analysis Project**: A computer vision and AI project to analyze Teamfight Tactics games. The goal is to detect in-game elements and evaluate player positions using models trained on custom datasets.
-* **Food to Go - Reactive**: A food delivery service, originally designed by [Chris Richardson](https://github.com/microservices-patterns/ftgo-application), which I migrated and rebuilt with **Lagom** and **Scala** to focus on reactive principles and event-driven architecture.
-* **URL Shortener**: A high-performance URL shortening service written in **Go**, showcasing my ability to build efficient and concurrent backend systems.
-* (In-progress) **Immutable Ledger Service**: A minimalist, high-performance distributed ledger written in **Go**, implementing foundational blockchain concepts like SHA-256 hashing and a simple **Proof-of-Work** consensus mechanism to showcase **concurrency** and data immutability.
+* **[Food to Go - Reactive](https://github.com/JoseFerreira125/ftgo-reactive)**: A food delivery service, originally designed by [Chris Richardson](https://github.com/microservices-patterns/ftgo-application), which I migrated and rebuilt with **Lagom** and **Scala** to focus on reactive principles and **event-driven architecture**.
+* **https://www.shorturl.at/(https://github.com/JoseFerreira125/URLShortenerGo)**: A **high-performance** URL shortening service written in **Go**, utilizing concurrency primitives to showcase my ability to build **efficient and concurrent backend systems**.
+* **[P2P-Ledger-Service](https://github.com/JoseFerreira125/P2P-Ledger-Service)**: A minimalist, **concurrent** distributed ledger written in **Go**. This project demonstrates expertise in **P2P networking (libp2p)**, Proof-of-Work (PoW) consensus, and utilizing concurrent Go routines for block mining and message gossip. It's fully containerized with **Prometheus/Grafana observability** and highlights solutions for **data immutability**.
+* (In-progress) **[TFT Analysis Project](https://github.com/JoseFerreira125/tft_analysis)**: A computer vision and AI project to analyze Teamfight Tactics games. The goal is to detect in-game elements and evaluate player positions using models trained on custom datasets.
 
 ---
 
