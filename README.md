@@ -28,7 +28,7 @@ Here are a few projects I've built to explore new technologies and solve interes
 * **[Food to Go - Reactive](https://github.com/JoseFerreira125/ftgo-reactive)**: A food delivery service, originally designed by [Chris Richardson](https://github.com/microservices-patterns/ftgo-application), which I migrated and rebuilt with **Lagom** and **Scala** to focus on reactive principles and **event-driven architecture**.
 * **[URLShortenerGo](https://github.com/JoseFerreira125/URLShortenerGo)**: A **high-performance** URL shortening service written in **Go**, utilizing concurrency primitives to showcase my ability to build **efficient and concurrent backend systems**.
 * **[P2P-Ledger-Service](https://github.com/JoseFerreira125/P2P-Ledger-Service)**: A minimalist, **concurrent** distributed ledger written in **Go**. This project demonstrates expertise in **P2P networking (libp2p)**, Proof-of-Work (PoW) consensus, and utilizing concurrent Go routines for block mining and message gossip. It's fully containerized with **Prometheus/Grafana observability** and highlights solutions for **data immutability**.
-* (In-progress) **[TFT Analysis Project](https://github.com/JoseFerreira125/tft_analysis)**: A computer vision and AI project to analyze Teamfight Tactics games. The goal is to detect in-game elements and evaluate player positions using models trained on custom datasets.
+* (In-progress) **TFT Analysis Project**: A computer vision and AI project to analyze Teamfight Tactics games. The goal is to detect in-game elements and evaluate player positions using models trained on custom datasets.
 
 ---
 
